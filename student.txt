@@ -1,0 +1,3 @@
+student name : Jordy Pouw
+student number : 631193
+student class : INF1SC
